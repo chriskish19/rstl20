@@ -1,2 +1,2 @@
-# rstl20
- Readable cpp STL 20
+# Readable C++ STL version 20
+The standard library written in modules that isnt a mess.
